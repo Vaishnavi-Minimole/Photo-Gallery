@@ -232,6 +232,7 @@ body {
   }
 
   @media (max-width:1024px) {
+
     navbar ul li a{
       
       font-size: 14px;
@@ -293,7 +294,8 @@ body {
     background-image: url("https://th.bing.com/th/id/OIP.tIU-K1EFh9P4ME4FYOuqBQHaEz?w=4248&h=2754&rs=1&pid=ImgDetMain");
     background-size: cover;
     background-position: center;
-    
+    margin: 0;
+    padding: 0;
     color:white;
 }
 
